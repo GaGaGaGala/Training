@@ -6,13 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c40f0511-ff06-4407-843d-d449c7a1f638" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanDjango/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanDjango/task2/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanDjango/task3/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanDjango/templates/third_task/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/cart.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanDjango/templates/third_task/games.html" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/games.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanDjango/templates/third_task/platform.html" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/platform.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,16 +34,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

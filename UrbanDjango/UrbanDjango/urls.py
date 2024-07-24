@@ -19,8 +19,7 @@ from django.urls import path, include
 from task3.views import get_platform, get_games, get_cart
 urlpatterns = [
     path('admin/', admin.site.urls),
-    #path('task2/', include('task2.urls')),
-    #path('task3/', include('task3.urls')),
+    path('task2/', include('task2.urls')),
     path('platform/', get_platform),
     path('platform/cart/', get_cart),
     path('platform/games/', get_games),
